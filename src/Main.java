@@ -18,5 +18,6 @@ public class Main {
         ImageIcon icon = new ImageIcon("Images/AppIcon.png"); //Create the icon with an image
         mainWindow.setIconImage(icon.getImage()); //Change icon of the frame
         mainWindow.getContentPane().setBackground(new Color(0x1E1E1E));
+        //Next
     }
 }
